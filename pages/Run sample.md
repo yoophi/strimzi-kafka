@@ -1,0 +1,2 @@
+- {{embed [[Run Kafka console Producer]]}}
+- {{embed [[Run Kafka console Consumer]]}}
