@@ -1,3 +1,4 @@
 - [[Install strimzi operator]]
 - [[Install Kafka]]
 - [[Run sample]]
+- {{embed [[Links]]}}

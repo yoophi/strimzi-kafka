@@ -1,0 +1,6 @@
+- Official Site
+	- [Strimzi - Apache Kafka on Kubernetes](https://strimzi.io/)
+- Blog Posts of t3guild.com
+	- [Kafka 개요 – T3 Guild](https://t3guild.com/2020/04/18/kafka-%ea%b0%9c%ec%9a%94/)
+	- [Kafka Strimzi Drill Down – T3 Guild](https://t3guild.com/2020/08/06/kafka-strimzi-drill-down/)
+	- [Kafka 실전 코드 (with Strimzi) – T3 Guild](https://t3guild.com/2020/04/30/kafka-%EC%8B%A4%EC%A0%84-%EC%BD%94%EB%93%9C-with-strimzi/)
