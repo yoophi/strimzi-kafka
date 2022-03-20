@@ -1,0 +1,3 @@
+- Strimzi Release Artifact 다운로드
+	- https://github.com/strimzi/strimzi-kafka-operator/releases 페이지에서 `strimzi-<version>.zipstrimzi-<version>.tar.gz` 파일 다운로드
+	-
